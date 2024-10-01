@@ -1,8 +1,8 @@
 # freddy - a json parser so bad it's scary
 
-Background: I recently had a friend who was asked to write a JSON parser from scratch without using the built-in `.json` functionality in a half-hour coding interview recently.
+Background: I recently had a friend asked to write a JSON parser in a half-hour coding interview.
 
-I was curious as to how quickly I could write one myself.
+I was curious as to how quickly I could write one myself. The tl;dr is I don't think it's a reasonable interview question.
 
 Caveats (abound):
 
